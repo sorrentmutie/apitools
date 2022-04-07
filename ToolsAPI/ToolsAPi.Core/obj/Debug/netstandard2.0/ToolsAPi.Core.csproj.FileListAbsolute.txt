@@ -1,0 +1,10 @@
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolsAPi.Core\bin\Debug\netstandard2.0\ToolsAPi.Core.deps.json
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolsAPi.Core\bin\Debug\netstandard2.0\ToolsAPi.Core.dll
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolsAPi.Core\bin\Debug\netstandard2.0\ToolsAPi.Core.pdb
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolsAPi.Core\obj\Debug\netstandard2.0\ToolsAPi.Core.csproj.AssemblyReference.cache
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolsAPi.Core\obj\Debug\netstandard2.0\ToolsAPi.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolsAPi.Core\obj\Debug\netstandard2.0\ToolsAPi.Core.AssemblyInfoInputs.cache
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolsAPi.Core\obj\Debug\netstandard2.0\ToolsAPi.Core.AssemblyInfo.cs
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolsAPi.Core\obj\Debug\netstandard2.0\ToolsAPi.Core.csproj.CoreCompileInputs.cache
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolsAPi.Core\obj\Debug\netstandard2.0\ToolsAPi.Core.dll
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolsAPi.Core\obj\Debug\netstandard2.0\ToolsAPi.Core.pdb

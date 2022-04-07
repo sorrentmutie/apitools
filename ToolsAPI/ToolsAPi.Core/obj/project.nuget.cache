@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wBt6rms4dSYfTVRGImD0CfaVLUNyKgJROeJ9ia+GW+UICa0lotC9f4TfXEWrucsB4JRjnr7E8OEbAfw7sIMtw==",
+  "success": true,
+  "projectFilePath": "E:\\corsi\\Datagraph\\Fase3\\Tools\\ToolsAPI\\ToolsAPi.Core\\ToolsAPi.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salvatore\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\salvatore\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\bin\Debug\net6.0\ToolAPI.DataLayer.deps.json
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\bin\Debug\net6.0\ToolAPI.DataLayer.dll
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\bin\Debug\net6.0\ToolAPI.DataLayer.pdb
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\obj\Debug\net6.0\ToolAPI.DataLayer.csproj.AssemblyReference.cache
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\obj\Debug\net6.0\ToolAPI.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\obj\Debug\net6.0\ToolAPI.DataLayer.AssemblyInfoInputs.cache
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\obj\Debug\net6.0\ToolAPI.DataLayer.AssemblyInfo.cs
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\obj\Debug\net6.0\ToolAPI.DataLayer.csproj.CoreCompileInputs.cache
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\obj\Debug\net6.0\ToolAPI.DataLayer.dll
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\obj\Debug\net6.0\refint\ToolAPI.DataLayer.dll
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\obj\Debug\net6.0\ToolAPI.DataLayer.pdb
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\obj\Debug\net6.0\ref\ToolAPI.DataLayer.dll
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\bin\Debug\net6.0\ToolsAPi.Core.dll
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\bin\Debug\net6.0\ToolsAPi.Core.pdb
+E:\corsi\Datagraph\Fase3\Tools\ToolsAPI\ToolAPI.DataLayer\obj\Debug\net6.0\ToolAPI.DataLayer.csproj.CopyComplete
